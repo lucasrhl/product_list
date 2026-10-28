@@ -1,2 +1,2 @@
 # product_list
-Recherche dans une liste de produit React
+Recherche à l'aide d'une barre de recherche, d'une checkbox et d'une range les différents produits présent dans une liste en React
